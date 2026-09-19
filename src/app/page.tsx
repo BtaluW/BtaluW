@@ -238,7 +238,7 @@ export default function Home() {
         <div className="max-w-2xl">
           <div className="mb-6 inline-flex items-center gap-2 rounded-full border border-teal-200 bg-teal-50 px-3 py-1 font-mono text-xs font-medium tracking-wide text-teal-700 uppercase dark:border-teal-400/20 dark:bg-teal-400/10 dark:text-teal-400">
             <span className="h-1.5 w-1.5 rounded-full bg-teal-500 dark:bg-teal-400" />
-            Open to frontend roles · Montreal, QC
+            Open to frontend roles
           </div>
           <h1 className="text-4xl font-bold tracking-tight text-zinc-800 sm:text-5xl dark:text-zinc-100">
             I spent five years fixing what engineers shipped. Now
