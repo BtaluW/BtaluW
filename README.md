@@ -9,7 +9,7 @@ I'm working through the fundamentals of software engineering by building real, f
 - 🤖 I build with AI-assisted dev tools (like Claude Code). More on how, below👇
 - 💬 Ask me about: what I'm currently working through (happy to talk shop)
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/brian-talugende-bt/)
-- 🖥️ Personal site: coming soon — built and hosted right here on GitHub Pages
+- 🖥️ Personal site: https://www.btalu.ca
 
 ## Tech stack
 
@@ -75,15 +75,13 @@ Recruiting teams and job seekers today mostly work through disconnected tools: r
 - *Matching, pragmatically*: started with a heuristic scoring model (skills/experience overlap) before layering in a Gemini-backed AI tier on top, a working, explainable baseline first, then a probabilistic one. If the AI call fails, it falls back to the heuristic score rather than showing nothing.
 - *AI, opt-in by design*: every AI feature (resume suggestions, job-fit explanations) only runs once a user has granted data-processing consent — the consent gate is one chokepoint every caller goes through, not a check repeated (and possibly missed) at each call site.
 
-*(Repo is private while it's under active development, happy to walk through the code directly.)*
+*(Repo is private while it's under active development.)*
 
 <!-- TODO: add screenshots, e.g.
 ![Recruiter dashboard](docs/screenshots/recruiter-dashboard.png)
 ![Candidate profile](docs/screenshots/candidate-profile.png)
 Drop images into a docs/screenshots/ folder in this repo and reference them above.
 -->
-
-🚧 A personal portfolio site is in progress, and will live at this repository's GitHub Pages URL once it's ready.
 
 ## Connect
 
