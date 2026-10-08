@@ -1,5 +1,5 @@
-:HL["/_next/static/chunks/25qix5qh-28gu.css","style"]
+:HL["/_next/static/chunks/2bn_pw7pepyq4.css","style"]
 :HL["/Accenture-icon.svg","image"]
 :HL["/University_of_Liverpool.svg","image"]
 :HL["/Centennial_College.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"mOprY34yTQPbOWf1c6D8y"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"ccf_Dgi7gJwWAGyaAEtms"}
